@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:7c3aed&height=220&section=header&text=SUSHANT%20KUMAR&fontSize=52&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Student%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:4c1d95,100:7c3aed&height=230&section=header&text=SUSHANT%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Enthusiast%20%7C%20Python%20Developer%20%7C%20Student%20Developer&descAlignY=57&descSize=18" width="100%" alt="Sushant Kumar Header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Machine+Learning+Projects;Exploring+Artificial+Intelligence+and+NLP;Python+%7C+Machine+Learning+%7C+React.js;Learning+by+Building+Real+Projects;Open+to+Internships+and+Opportunities" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Machine+Learning+Projects+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%26+NLP+%F0%9F%A7%A0;Turning+Data+into+Practical+Applications+%F0%9F%93%8A;Python+%E2%80%A2+Machine+Learning+%E2%80%A2+React.js;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -12,40 +12,73 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sushantkr99&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Sushantkr99?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/Sushantkr99?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&logo=github)
+![Followers](https://img.shields.io/github/followers/Sushantkr99?style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github)
+![Stars](https://img.shields.io/github/stars/Sushantkr99?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github)
 
 </div>
 
 ---
 
-## 🪐 About Me
+## 👨‍💻 About Me
 
-I'm **Sushant**, currently pursuing a **B.Tech in Computer Science & Engineering**, with a strong interest in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Development**.
+```python
+sushant = {
+    "education": "B.Tech in Computer Science & Engineering",
+    "interests": ["Artificial Intelligence", "Machine Learning", "NLP"],
+    "languages": ["Python", "Java", "C", "C++", "JavaScript"],
+    "currently_learning": ["DSA", "Machine Learning", "Data Science"],
+    "goal": "Build practical AI/ML applications"
+}
+```
 
-My journey started with frontend development during my first internship at **Techxquad**, where I built a responsive personal portfolio website using **React.js**.
+I'm **Sushant**, currently pursuing a **B.Tech in Computer Science & Engineering** with a strong interest in **Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Development**.
 
-I later completed a **2-month AI/ML internship at 3Skill**, where I gained hands-on experience in **Machine Learning, Data Analysis, and NLP** by working on multiple practical projects.
+My development journey started during my first internship at **Techxquad**, where I built a responsive personal portfolio using **React.js**. I later completed a **2-month AI/ML internship at 3Skill**, gaining hands-on experience in Machine Learning, Data Analysis, NLP, and end-to-end project development.
 
-I enjoy learning by building projects and understanding the complete workflow — from **data preprocessing and model training to evaluation and Streamlit application development**.
+I learn best by building — from **data preprocessing and model training to evaluation and Streamlit application development**.
 
-### 🔭 Currently Working On
-
-- 🤖 Building Machine Learning and NLP projects
-- 🐍 Improving my Python and Data Science skills
-- 📊 Exploring data analysis and model evaluation
-- 💻 Building end-to-end ML applications
-- 📚 Learning Data Structures and Algorithms
-
----
+<br/>
 
 <div align="center">
 
 ### 🎯 Current Focus
 
-**Artificial Intelligence • Machine Learning • NLP • Python • Data Science**
+**Artificial Intelligence** • **Machine Learning** • **NLP** • **Python** • **Data Science**
 
-*"Learning by building, experimenting, and improving."*
+<br/>
+
+> *Learning by building, experimenting, and improving.*
+
+</div>
+
+---
+
+## 🛣️ My Developer Journey
+
+<div align="center">
+
+### 🌐 Techxquad
+**Frontend Development**
+
+⬇️
+
+### ⚛️ React.js
+**Built My Personal Portfolio**
+
+⬇️
+
+### 🤖 3Skill
+**AI/ML Internship**
+
+⬇️
+
+### 🧠 Machine Learning & NLP
+**Building Practical Projects**
+
+⬇️
+
+### 🚀 What's Next?
+**More Real-World AI Applications**
 
 </div>
 
@@ -58,19 +91,19 @@ I enjoy learning by building projects and understanding the complete workflow �
 
 <br/>
 
-During my first internship at **Techxquad**, I gained practical experience in frontend development and built a responsive personal portfolio website using **React.js**.
+During my first internship at **Techxquad**, I gained practical experience in frontend development and built a responsive personal portfolio website.
 
-### 🚀 Project
+### 🚀 Main Project
 
 **Personal Portfolio Website**
 
-A responsive portfolio website built to showcase my profile, skills, projects, and experience.
+A responsive website built to showcase my profile, skills, projects, and experience.
 
-### 🛠 Technologies Used
+### 🛠 Technologies
 
 `React.js` • `JavaScript` • `HTML` • `CSS`
 
-### 📚 Key Learnings
+### 📚 What I Learned
 
 - React.js fundamentals
 - Component-based development
@@ -79,11 +112,11 @@ A responsive portfolio website built to showcase my profile, skills, projects, a
 - React project structure
 - Frontend development workflow
 
-**Repository:** 🔒 Private Repository
+> 🔒 **Repository:** Private
 
 </details>
 
----
+<br/>
 
 <details open>
 <summary><b>🤖 Second Internship — AI/ML Intern • 3Skill</b></summary>
@@ -93,27 +126,30 @@ A responsive portfolio website built to showcase my profile, skills, projects, a
 **Duration:** 2 Months  
 **Mode:** Remote
 
-During my second internship at **3Skill**, I gained hands-on experience in Machine Learning, Data Analysis, and Natural Language Processing through practical tasks and end-to-end projects.
+During my second internship, I worked on practical Machine Learning and NLP projects while learning the complete development workflow.
 
-### 📚 Key Learnings
+### 🧠 What I Learned
 
-- Data cleaning and preprocessing
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
-- Data visualization
-- Feature engineering and selection
-- Correlation analysis and outlier detection
-- TF-IDF vectorization
-- Model training and comparison
-- Model evaluation
-- Hyperparameter tuning
-- Streamlit application development
-- Git, GitHub, and project documentation
+- Data Visualization
+- Feature Engineering & Selection
+- Correlation Analysis
+- Outlier Detection
+- TF-IDF Vectorization
+- Model Training & Comparison
+- Model Evaluation
+- Hyperparameter Tuning
+- Streamlit App Development
+- Git, GitHub & Documentation
 
-### 🚀 Projects Completed
+### 🚀 Projects Built
 
-- 🎯 AI-Based Hiring Prediction
-- 🕵️ Fake Job Posting Detection using ML & NLP
-- 📰 Fake News Detection using ML & NLP
+| # | Project | Domain |
+|:--:|:--------|:-------|
+| 01 | 🎯 AI-Based Hiring Prediction | Machine Learning |
+| 02 | 🕵️ Fake Job Posting Detection | ML & NLP |
+| 03 | 📰 Fake News Detection | ML & NLP |
 
 </details>
 
@@ -125,58 +161,35 @@ During my second internship at **3Skill**, I gained hands-on experience in Machi
 
 ### 💻 Programming Languages
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" alt="Programming Languages"/>
 
 <br/><br/>
 
 ### 🌐 Frontend Development
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind&theme=dark" alt="Frontend Development"/>
 
 <br/><br/>
 
-### 🔧 Tools & Platforms
+### 🔧 Developer Tools
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" alt="Tools and Platforms"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux&theme=dark" alt="Developer Tools"/>
 
 <br/><br/>
 
-### 🤖 AI, ML & Data Science
+### 🤖 AI / ML / Data Science
+
+![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-5b21b6?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-6d28d9?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 <br/>
 
-`Python` • `Pandas` • `NumPy` • `Scikit-learn`
-
-`Matplotlib` • `Seaborn` • `Machine Learning` • `NLP`
-
-`TF-IDF` • `EDA` • `Feature Engineering` • `Model Evaluation`
-
-</div>
-
----
-
-## 🧠 Skills & Technologies
-
-<div align="center">
-
-| **Area** | **Skills & Technologies** |
-| :--- | :--- |
-| **Programming** | Python · Java · C · C++ · JavaScript |
-| **Data Handling** | Pandas · NumPy |
-| **Data Visualization** | Matplotlib · Seaborn |
-| **Machine Learning** | Logistic Regression · Decision Tree · Random Forest · SVM · KNN · Naive Bayes |
-| **NLP** | Text Cleaning · TF-IDF Vectorization · Text Classification |
-| **Data Analysis** | EDA · Correlation Analysis · Outlier Detection |
-| **Model Evaluation** | Accuracy · Precision · Recall · F1 Score · Confusion Matrix |
-| **Frontend Development** | React.js · HTML · CSS · JavaScript · Bootstrap · Tailwind CSS |
-| **ML App Development** | Streamlit |
-| **Development Tools** | VS Code · Git · GitHub · Linux |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-4c1d95?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5b21b6?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6d28d9?style=for-the-badge)
+![TF--IDF](https://img.shields.io/badge/TF--IDF-7c3aed?style=for-the-badge)
 
 </div>
 
@@ -184,136 +197,164 @@ During my second internship at **3Skill**, I gained hands-on experience in Machi
 
 ## 🚀 Featured Projects
 
+### 01 • 🌐 Personal Portfolio
+
 <details open>
-<summary><b>🌐 Personal Portfolio Website — React.js</b></summary>
+<summary><b>View Project Details</b></summary>
 
 <br/>
 
-A responsive personal portfolio website developed using **React.js** during my first internship at **Techxquad**.
+> My first major development project, created during my **Techxquad internship**.
 
-| **Category** | **Details** |
-| :--- | :--- |
-| **Tech Stack** | React.js · JavaScript · HTML · CSS |
-| **Key Features** | Responsive Design · Project Showcase · Skills Section · Contact Section |
-| **Focus** | Frontend Development · Component-Based Development |
-| **Developed During** | Techxquad Internship |
-| **Repository** | 🔒 Private Repository |
+| | |
+|:---|:---|
+| **⚡ Tech Stack** | React.js · JavaScript · HTML · CSS |
+| **✨ Features** | Responsive Design · Project Showcase · Skills · Contact |
+| **🎯 Focus** | Frontend Development · Reusable Components |
+| **💼 Built During** | Techxquad Internship |
+| **🔒 Repository** | Private |
 
 </details>
 
 ---
 
-<details>
-<summary><b>🎯 AI-Based Hiring Prediction</b></summary>
+### 02 • 🎯 AI-Based Hiring Prediction
+
+<details open>
+<summary><b>View Project Details</b></summary>
 
 <br/>
 
-A Machine Learning project designed to predict recruiter hiring decisions based on candidate-related features.
+> A Machine Learning system that predicts recruiter hiring decisions using candidate-related features.
 
-The project includes data preprocessing, feature handling, model comparison, and user input prediction.
-
-| **Category** | **Details** |
-| :--- | :--- |
-| **Tech Stack** | Python · Pandas · Scikit-learn · Streamlit |
-| **Key Features** | Hiring Prediction · Model Comparison · User Input Prediction |
-| **ML Concepts** | Classification · Data Preprocessing · Feature Engineering · Model Evaluation |
-| **Repository** | [View Repository](https://github.com/Sushantkr99/Ai-Based-Hiring) |
+| | |
+|:---|:---|
+| **⚡ Tech Stack** | Python · Pandas · Scikit-learn · Streamlit |
+| **✨ Features** | Hiring Prediction · Model Comparison · User Input |
+| **🧠 ML Concepts** | Classification · Preprocessing · Feature Engineering |
+| **📊 Evaluation** | Accuracy · Precision · Recall · F1 Score |
+| **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Ai-Based-Hiring) |
 
 </details>
 
 ---
 
-<details>
-<summary><b>🕵️ Fake Job Posting Detection using Machine Learning & NLP</b></summary>
+### 03 • 🕵️ Fake Job Posting Detection
+
+<details open>
+<summary><b>View Project Details</b></summary>
 
 <br/>
 
-A Machine Learning and NLP project that predicts whether a job posting is **Legitimate** or **Fraudulent**.
+> An ML and NLP application that detects whether a job posting is **Legitimate** or **Fraudulent**.
 
-The project compares multiple classification models and uses TF-IDF vectorization to process job posting text.
-
-| **Category** | **Details** |
-| :--- | :--- |
-| **Tech Stack** | Python · Pandas · Scikit-learn · TF-IDF · Streamlit |
-| **Input Methods** | Text · PDF |
-| **Key Features** | Job Text Analysis · PDF Input · Fraud Prediction |
-| **ML Concepts** | NLP · TF-IDF · Text Classification · Linear SVM |
-| **Repository** | [View Repository](https://github.com/Sushantkr99/Fake_Job_Posting_Detection) |
+| | |
+|:---|:---|
+| **⚡ Tech Stack** | Python · Scikit-learn · TF-IDF · Streamlit |
+| **📥 Input Methods** | Text · PDF |
+| **✨ Features** | Text Analysis · PDF Extraction · Fraud Prediction |
+| **🧠 ML Concepts** | NLP · TF-IDF · Text Classification · Linear SVM |
+| **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Fake_Job_Posting_Detection) |
 
 </details>
 
 ---
 
-<details>
-<summary><b>📰 Fake News Detection using Machine Learning & NLP</b></summary>
+### 04 • 📰 Fake News Detection
+
+<details open>
+<summary><b>View Project Details</b></summary>
 
 <br/>
 
-A Machine Learning and NLP project that classifies news content as **Real** or **Fake**.
+> An ML and NLP application that classifies news content as **Real** or **Fake**.
 
-The application supports multiple input methods through an interactive Streamlit interface.
-
-| **Category** | **Details** |
-| :--- | :--- |
-| **Tech Stack** | Python · Pandas · Scikit-learn · TF-IDF · Streamlit |
-| **Input Methods** | Text · PDF · Image |
-| **Key Features** | Text Prediction · PDF Text Extraction · Image OCR |
-| **ML Concepts** | NLP · Text Classification · TF-IDF · Model Evaluation |
-| **Repository** | [View Repository](https://github.com/Sushantkr99/Fake_News_Detection) |
+| | |
+|:---|:---|
+| **⚡ Tech Stack** | Python · Scikit-learn · TF-IDF · Streamlit |
+| **📥 Input Methods** | Text · PDF · Image |
+| **✨ Features** | Text Prediction · PDF Extraction · Image OCR |
+| **🧠 ML Concepts** | NLP · Text Classification · Model Evaluation |
+| **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Fake_News_Detection) |
 
 </details>
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🧠 Machine Learning Toolkit
 
 <div align="center">
 
-| **Achievement** | **Description** |
-| :--- | :--- |
-| 🌐 **First Internship — Techxquad** | Built a responsive personal portfolio website using React.js |
-| 🤖 **Second Internship — 3Skill** | Completed a 2-month AI/ML internship |
-| 💼 **Personal Portfolio** | Developed my first React.js project during my Techxquad internship |
-| 🎯 **AI-Based Hiring Prediction** | Built a Machine Learning system to predict recruiter hiring decisions |
-| 🕵️ **Fake Job Posting Detection** | Built an ML & NLP application to detect fraudulent job postings |
-| 📰 **Fake News Detection** | Built an ML & NLP application supporting Text, PDF, and Image input |
+| 📊 Data | 🤖 Machine Learning | 📝 NLP |
+|:---:|:---:|:---:|
+| Pandas | Logistic Regression | Text Cleaning |
+| NumPy | Decision Tree | TF-IDF |
+| Matplotlib | Random Forest | Text Classification |
+| Seaborn | Linear SVM | Feature Extraction |
+| EDA | KNN | PDF Text Processing |
+| Feature Engineering | Naive Bayes | Image OCR |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📈 Model Evaluation | 🚀 Development |
+|:---:|:---:|
+| Accuracy | Streamlit |
+| Precision | Git |
+| Recall | GitHub |
+| F1 Score | VS Code |
+| Confusion Matrix | Linux |
 
 </div>
 
 ---
 
-## 📚 What I'm Learning
+## 🏆 Highlights
 
 <div align="center">
 
-| **Currently Learning** | **Goal** |
-| :--- | :--- |
-| Data Structures & Algorithms | Improve problem-solving skills |
+| 🌟 | Milestone |
+|:--:|:----------|
+| 🌐 | Completed my first internship at **Techxquad** |
+| ⚛️ | Built my first personal portfolio using **React.js** |
+| 🤖 | Completed a **2-month AI/ML internship at 3Skill** |
+| 🎯 | Built an **AI-Based Hiring Prediction** system |
+| 🕵️ | Developed a **Fake Job Posting Detection** application |
+| 📰 | Built a **Fake News Detection** app with Text, PDF & Image input |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+| 📚 Learning | 🎯 Goal |
+|:---|:---|
+| Data Structures & Algorithms | Improve problem-solving |
 | Machine Learning | Build better predictive models |
-| Natural Language Processing | Develop better text-based AI projects |
-| Python | Improve programming and Data Science skills |
+| Natural Language Processing | Create better text-based AI apps |
+| Python | Strengthen programming skills |
 | Streamlit | Build interactive ML applications |
-| Git & GitHub | Improve version control and project documentation |
+| Git & GitHub | Improve project workflows |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sushantkr99&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Sushantkr99&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantkr99&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sushantkr99&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e9d5ff" width="100%" alt="Contribution Graph"/>
 
 </div>
 
@@ -343,29 +384,31 @@ The application supports multiple input methods through an interactive Streamlit
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushantkr99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-kumar-307769336/)
+### Interested in AI, Machine Learning, NLP, and Software Development?
 
-</div>
-
----
-
-<div align="center">
-
-### 💡 My Developer Journey
-
-**Techxquad → React.js Development → 3Skill → AI/ML & NLP → Building More Real-World Projects**
+I'm always open to **learning opportunities, internships, collaborations, and connecting with other developers**.
 
 <br/>
 
-*"Learning every day. Building real projects. Improving step by step."*
+[![GitHub](https://img.shields.io/badge/Explore_My_Projects-4c1d95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushantkr99)
+[![LinkedIn](https://img.shields.io/badge/Connect_With_Me-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-kumar-307769336/)
+
+<br/><br/>
+
+### 💡 My Journey So Far
+
+**Frontend Development → React.js → Machine Learning → NLP → More to Come 🚀**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a1a2e&height=120&section=footer" width="100%" alt="Footer"/>
+> *"Learning every day. Building real projects. Improving step by step."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:0d1117&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
