@@ -212,7 +212,7 @@ During my second internship, I worked on practical Machine Learning and NLP proj
 | **✨ Features** | Responsive Design · Project Showcase · Skills · Contact |
 | **🎯 Focus** | Frontend Development · Reusable Components |
 | **💼 Built During** | Techxquad Internship |
-| **🔒 Repository** | Private |
+| **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Portfolio.git) |
 
 </details>
 
@@ -234,6 +234,7 @@ During my second internship, I worked on practical Machine Learning and NLP proj
 | **🧠 ML Concepts** | Classification · Preprocessing · Feature Engineering |
 | **📊 Evaluation** | Accuracy · Precision · Recall · F1 Score |
 | **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Ai-Based-Hiring) |
+| **🌐 Live Demo** | [Click Here](https://ai-based-hiring-bysk.streamlit.app/) |
 
 </details>
 
