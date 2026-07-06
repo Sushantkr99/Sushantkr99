@@ -91,6 +91,9 @@ I learn best by building — from **data preprocessing and model training to eva
 
 <br/>
 
+**Duration:** 1 Months  
+**Mode:** Remote
+
 During my first internship at **Techxquad**, I gained practical experience in frontend development and built a responsive personal portfolio website.
 
 ### 🚀 Main Project
@@ -112,7 +115,6 @@ A responsive website built to showcase my profile, skills, projects, and experie
 - React project structure
 - Frontend development workflow
 
-> 🔒 **Repository:** Private
 
 </details>
 
@@ -208,11 +210,12 @@ During my second internship, I worked on practical Machine Learning and NLP proj
 
 | | |
 |:---|:---|
-| **⚡ Tech Stack** | React.js · JavaScript · HTML · CSS |
-| **✨ Features** | Responsive Design · Project Showcase · Skills · Contact |
-| **🎯 Focus** | Frontend Development · Reusable Components |
+| **⚡ Tech Stack**    | React.js · JavaScript · HTML · CSS · Bootstrap · AOS |
+| **✨ Features**      | Responsive Design · Scroll Animations · Project Showcase · Skills · Contact|
+| **🎯 Focus**        | Frontend Development · Reusable Components |
 | **💼 Built During** | Techxquad Internship |
-| **🔗 Repository** | [View on GitHub](https://github.com/Sushantkr99/Portfolio.git) |
+| **🔗 Repository**   | [View on GitHub](https://github.com/Sushantkr99/Portfolio.git) |
+
 
 </details>
 
